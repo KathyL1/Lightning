@@ -7,6 +7,7 @@ PImage img2;
 
 void setup()
 {
+  // This is a setup
   size(300,300);
   background(198, 219, 215);
   img = loadImage("nightsky.jpg");
